@@ -1,0 +1,1 @@
+Calculadora com operações simples. Projeto realizado para aprimoramento de estudos em desenvolvimento de aplicações para dispositivos móveis.
